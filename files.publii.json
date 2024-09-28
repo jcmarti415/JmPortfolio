@@ -1,0 +1,547 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "6e78dd66c3bbc22b10296a6207e2d006"
+    },
+    {
+        "path": "about-me.html",
+        "type": "file",
+        "md5": "35e9980f70ad1fcb63c1b25ff5cffffb"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "ab1a2743577e8ff738ce7d0ca4b488f0"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "dce51e23e0d1b1273c2feda4e0b11570"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "da6e9be0fa855edd3610e97c1d4e38d9"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "8382c93a81ffa21a28acb9b0d42df16c"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "017385b552f7e0d979e2e2fe6f324015"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "cf6608e80a8ab966619b3fe23193f172"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "9c5ab7a87221183f149a42b3cceb7956"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ab8b0bd0bf06ea275e9529fd15a76765"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "0c70735af58190b563b2940b7a07007a"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "0bb1f41e2e459d23628833c37d8532f0"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "9561258c027307c78952ab47359b1e2a"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/juan-martinez",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/juan-martinez/index.html",
+        "type": "file",
+        "md5": "c55c504f9f4423e2aa3fcee9e94a5b13"
+    },
+    {
+        "path": "edmonton-housing-investment-analysis.html",
+        "type": "file",
+        "md5": "992ee6f47aed8ccd2c63d881f005e4dd"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "33ad1fb9f1b8bd19d1b4dd834f581b33"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "9b48d093aaaf5605acd8cad8544c565c"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "5b5f1c41dcd817b0abd30079c244b58d"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/Countr_barchart.png",
+        "type": "file",
+        "md5": "358d753ad02227ccf6984fb1fc50750f"
+    },
+    {
+        "path": "media/posts/1/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/gallery/Col_barchart-thumbnail.png",
+        "type": "file",
+        "md5": "7cd0e66eedd1959249d0984a00607299"
+    },
+    {
+        "path": "/media/posts/1/gallery/Col_barchart.png",
+        "type": "file",
+        "md5": "a17dc3b4de9c8e2f846685c1c1304a3e"
+    },
+    {
+        "path": "/media/posts/1/gallery/Col_timeline-thumbnail.png",
+        "type": "file",
+        "md5": "9286733e6274456a9e4bf8881eec1b36"
+    },
+    {
+        "path": "/media/posts/1/gallery/Col_timeline.png",
+        "type": "file",
+        "md5": "302efa578189d87d4e3ec6a85c69d1c7"
+    },
+    {
+        "path": "/media/posts/1/gallery/Countr_barchart-thumbnail.png",
+        "type": "file",
+        "md5": "114ad8369e9d487de07cf52f8055e915"
+    },
+    {
+        "path": "/media/posts/1/gallery/Countr_barchart.png",
+        "type": "file",
+        "md5": "358d753ad02227ccf6984fb1fc50750f"
+    },
+    {
+        "path": "/media/posts/1/gallery/Global_timeline-thumbnail.png",
+        "type": "file",
+        "md5": "522032ce2a328160a0f8c909e968651b"
+    },
+    {
+        "path": "/media/posts/1/gallery/Global_timeline.png",
+        "type": "file",
+        "md5": "ccd31c89a0358bec66b94e8358a6dd07"
+    },
+    {
+        "path": "/media/posts/1/Mapas-banner_01.png",
+        "type": "file",
+        "md5": "884fd90566af80e7c4050fc3f46f4a74"
+    },
+    {
+        "path": "media/posts/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/Countr_barchart-lg.png",
+        "type": "file",
+        "md5": "114ad8369e9d487de07cf52f8055e915"
+    },
+    {
+        "path": "/media/posts/1/responsive/Countr_barchart-md.png",
+        "type": "file",
+        "md5": "114ad8369e9d487de07cf52f8055e915"
+    },
+    {
+        "path": "/media/posts/1/responsive/Countr_barchart-sm.png",
+        "type": "file",
+        "md5": "b4d4a7d8a682c73a082eeac5c37b649b"
+    },
+    {
+        "path": "/media/posts/1/responsive/Countr_barchart-xl.png",
+        "type": "file",
+        "md5": "114ad8369e9d487de07cf52f8055e915"
+    },
+    {
+        "path": "/media/posts/1/responsive/Countr_barchart-xs.png",
+        "type": "file",
+        "md5": "a40a951f672e98dbf894de751be60471"
+    },
+    {
+        "path": "/media/posts/1/responsive/Mapas-banner_01-lg.png",
+        "type": "file",
+        "md5": "15a2753f5736452de51a58455e42e5db"
+    },
+    {
+        "path": "/media/posts/1/responsive/Mapas-banner_01-md.png",
+        "type": "file",
+        "md5": "7553ee8e71d503abcf4580de21516bd6"
+    },
+    {
+        "path": "/media/posts/1/responsive/Mapas-banner_01-sm.png",
+        "type": "file",
+        "md5": "f8c8b5d8f134a0554b67945ee0b9cd5f"
+    },
+    {
+        "path": "/media/posts/1/responsive/Mapas-banner_01-xl.png",
+        "type": "file",
+        "md5": "e804a78c28a9aa78ff79b8da0af80e36"
+    },
+    {
+        "path": "/media/posts/1/responsive/Mapas-banner_01-xs.png",
+        "type": "file",
+        "md5": "b8e1a9c646fde1e3f2aae34551350b41"
+    },
+    {
+        "path": "/media/posts/1/responsive/WorkFlow-lg.png",
+        "type": "file",
+        "md5": "729bc19eea72d997748433139964f703"
+    },
+    {
+        "path": "/media/posts/1/responsive/WorkFlow-md.png",
+        "type": "file",
+        "md5": "da7a9c3e156c5199e10fb0b5f600495f"
+    },
+    {
+        "path": "/media/posts/1/responsive/WorkFlow-sm.png",
+        "type": "file",
+        "md5": "6ae6a53bfca4b7ad9a36c782d337a00e"
+    },
+    {
+        "path": "/media/posts/1/responsive/WorkFlow-xl.png",
+        "type": "file",
+        "md5": "b55a5467f8d6fab38cbff5f4c78e232d"
+    },
+    {
+        "path": "/media/posts/1/responsive/WorkFlow-xs.png",
+        "type": "file",
+        "md5": "e811d84bdc56cbf88dc0e492d7b40477"
+    },
+    {
+        "path": "/media/posts/1/WorkFlow.png",
+        "type": "file",
+        "md5": "808aa409e7f3e1c36a8204b255034b56"
+    },
+    {
+        "path": "media/posts/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/3/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/gallery/1and2-map-thumbnail.jpg",
+        "type": "file",
+        "md5": "62adf4615ad854ef106c45aba79d0183"
+    },
+    {
+        "path": "/media/posts/3/gallery/1and2-map.jpg",
+        "type": "file",
+        "md5": "9b5a2bf96fc81914a4f24cfbbdb71657"
+    },
+    {
+        "path": "/media/posts/3/gallery/4map-thumbnail.jpg",
+        "type": "file",
+        "md5": "9c010cc935a0d73f1e83d0d537dfcf63"
+    },
+    {
+        "path": "/media/posts/3/gallery/4map.jpg",
+        "type": "file",
+        "md5": "c025029498669f63155612bedc24f082"
+    },
+    {
+        "path": "/media/posts/3/gallery/MainMap02-grayscale-thumbnail.png",
+        "type": "file",
+        "md5": "0cdbec9343f1bde35a0ac23f168457d7"
+    },
+    {
+        "path": "/media/posts/3/gallery/MainMap02-grayscale.png",
+        "type": "file",
+        "md5": "93b597c39c55439e4833f4c59e623afb"
+    },
+    {
+        "path": "/media/posts/3/gallery/Map3-thumbnail.jpg",
+        "type": "file",
+        "md5": "87e3c87f0952d623943bf4fb85515a4b"
+    },
+    {
+        "path": "/media/posts/3/gallery/Map3.jpg",
+        "type": "file",
+        "md5": "1d02c011cd3806df9ecfecaba4247c87"
+    },
+    {
+        "path": "/media/posts/3/Housing-Invesment.png",
+        "type": "file",
+        "md5": "4f44c984aeae1e035304b99d32471df7"
+    },
+    {
+        "path": "media/posts/3/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/responsive/Housing-Invesment-lg.png",
+        "type": "file",
+        "md5": "5732c5ff8135428fe370efff5b496fba"
+    },
+    {
+        "path": "/media/posts/3/responsive/Housing-Invesment-md.png",
+        "type": "file",
+        "md5": "634380c8fcbffca2f74c09b73fae9741"
+    },
+    {
+        "path": "/media/posts/3/responsive/Housing-Invesment-sm.png",
+        "type": "file",
+        "md5": "1cf4e030a35612e736cac63c9e7e248a"
+    },
+    {
+        "path": "/media/posts/3/responsive/Housing-Invesment-xl.png",
+        "type": "file",
+        "md5": "915cfec9f1990339cd539a86b810863b"
+    },
+    {
+        "path": "/media/posts/3/responsive/Housing-Invesment-xs.png",
+        "type": "file",
+        "md5": "106b9bb61d135aeb5823297ab8c8b844"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/4/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/gallery/J.Peterson-thumbnail.png",
+        "type": "file",
+        "md5": "cd132aaa894a3f0df3a443f5a2bceb46"
+    },
+    {
+        "path": "/media/posts/4/gallery/J.Peterson.png",
+        "type": "file",
+        "md5": "c05ce63e5f0f3de0d633e3e40cff176f"
+    },
+    {
+        "path": "/media/posts/4/gallery/Shapiro-thumbnail.png",
+        "type": "file",
+        "md5": "0e4025c62e3faf4751306b18c29b7576"
+    },
+    {
+        "path": "/media/posts/4/gallery/Shapiro.png",
+        "type": "file",
+        "md5": "51f82210778d687484df5586de9ef8c3"
+    },
+    {
+        "path": "/media/posts/4/gallery/Tate-thumbnail.png",
+        "type": "file",
+        "md5": "ef510779ea63d4a5a60dc825876f54b5"
+    },
+    {
+        "path": "/media/posts/4/gallery/Tate.png",
+        "type": "file",
+        "md5": "4b82e10f8ca34632b5dd8fc3b4912988"
+    },
+    {
+        "path": "/media/posts/4/gallery/Tweets-influencers-thumbnail.png",
+        "type": "file",
+        "md5": "e4ee00a029e167bfa7a8b6faa2588077"
+    },
+    {
+        "path": "/media/posts/4/gallery/Tweets-influencers.png",
+        "type": "file",
+        "md5": "975ffd77a02fb3634a52f167a90733d6"
+    },
+    {
+        "path": "media/posts/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/responsive/sentiment-Analysis-banner-lg.png",
+        "type": "file",
+        "md5": "d2ec2d571cf83b26c2ef0f81f787906b"
+    },
+    {
+        "path": "/media/posts/4/responsive/sentiment-Analysis-banner-md.png",
+        "type": "file",
+        "md5": "1efdd12ffdda9f13a45694453f707970"
+    },
+    {
+        "path": "/media/posts/4/responsive/sentiment-Analysis-banner-sm.png",
+        "type": "file",
+        "md5": "b347562cded83290f5c960aded1b7981"
+    },
+    {
+        "path": "/media/posts/4/responsive/sentiment-Analysis-banner-xl.png",
+        "type": "file",
+        "md5": "58c3f5383152ba9e24ce860b5764fdc3"
+    },
+    {
+        "path": "/media/posts/4/responsive/sentiment-Analysis-banner-xs.png",
+        "type": "file",
+        "md5": "315dc68b38ebf543661670f219035b36"
+    },
+    {
+        "path": "/media/posts/4/sentiment-Analysis-banner.png",
+        "type": "file",
+        "md5": "ebe52e391f7dbbd1d6e569fe1c95e39f"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "20b71fe0ee35873dfbc449e9682ca9e9"
+    },
+    {
+        "path": "sentiment-analysis-on-social-media-comments.html",
+        "type": "file",
+        "md5": "ba3e4d977c9989f9e27a12e3e57d747d"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "0d68f302f0cff7d6621d50d31185eb07"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/arcgis",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/arcgis/index.html",
+        "type": "file",
+        "md5": "d5047dd6102412417fd094ca9fb7d746"
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "b6b50efb39d7a07657cf25138da2f06f"
+    },
+    {
+        "path": "tags/ocr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/ocr/index.html",
+        "type": "file",
+        "md5": "46f56119b7044dc5275bbb45c89652d0"
+    },
+    {
+        "path": "tags/python",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/python/index.html",
+        "type": "file",
+        "md5": "fb27a5f2c7d80867f39d43177d3d0f07"
+    },
+    {
+        "path": "tags/qgis",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/qgis/index.html",
+        "type": "file",
+        "md5": "5202969322338c5b02d34131886cd638"
+    },
+    {
+        "path": "tags/r",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/r/index.html",
+        "type": "file",
+        "md5": "ebe8e87191446cd9d039ab37865776dd"
+    },
+    {
+        "path": "text-analysiss-of-historical-text-abour-the-coombian-conflcit-and-human-rights-violations.html",
+        "type": "file",
+        "md5": "aa5e8ae9a831c208c9e8b306777681d9"
+    }
+]
