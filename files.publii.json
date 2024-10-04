@@ -112,7 +112,7 @@
     {
         "path": "/authors/juan-martinez/index.html",
         "type": "file",
-        "md5": "c55c504f9f4423e2aa3fcee9e94a5b13"
+        "md5": "0e743637f17e14ee6be1a1698993a985"
     },
     {
         "path": "edmonton-housing-investment-analysis.html",
@@ -122,17 +122,22 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "33ad1fb9f1b8bd19d1b4dd834f581b33"
+        "md5": "174d3fb274705c3eb3517721431536e5"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "9b48d093aaaf5605acd8cad8544c565c"
+        "md5": "bb54298b3627d910d1d45bdd3452f82a"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "5b5f1c41dcd817b0abd30079c244b58d"
+        "md5": "b32481968a382b73105917de8d552f77"
+    },
+    {
+        "path": "latam-after-covid-19-more-protests-and-more-peace.html",
+        "type": "file",
+        "md5": "db1d05d362b0844708d7c7a5fa92587d"
     },
     {
         "path": "media",
@@ -460,6 +465,136 @@
         "md5": "ebe52e391f7dbbd1d6e569fe1c95e39f"
     },
     {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/Banner-LATAM-Protests.png",
+        "type": "file",
+        "md5": "59f54025a2ce3e569d9332c225330df7"
+    },
+    {
+        "path": "/media/posts/5/Picture1.jpg",
+        "type": "file",
+        "md5": "4283198b18effb7797a5820b636b7484"
+    },
+    {
+        "path": "/media/posts/5/Picture2.png",
+        "type": "file",
+        "md5": "1d1fabcab9971ffae5ce6cddcdbd4f41"
+    },
+    {
+        "path": "/media/posts/5/Picture3.png",
+        "type": "file",
+        "md5": "89edf2cb501ac4366683425893d783dd"
+    },
+    {
+        "path": "media/posts/5/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/responsive/Banner-LATAM-Protests-lg.png",
+        "type": "file",
+        "md5": "b42c98979b5db1648a01c097c498430b"
+    },
+    {
+        "path": "/media/posts/5/responsive/Banner-LATAM-Protests-md.png",
+        "type": "file",
+        "md5": "b92498641760373e336f3432cdf1fabd"
+    },
+    {
+        "path": "/media/posts/5/responsive/Banner-LATAM-Protests-sm.png",
+        "type": "file",
+        "md5": "2259405ce18dbb56340020c03388c53a"
+    },
+    {
+        "path": "/media/posts/5/responsive/Banner-LATAM-Protests-xl.png",
+        "type": "file",
+        "md5": "314afd8d4fde2ece31846377d7789192"
+    },
+    {
+        "path": "/media/posts/5/responsive/Banner-LATAM-Protests-xs.png",
+        "type": "file",
+        "md5": "c3ea052f80406eb9b1e61518b69aa8f7"
+    },
+    {
+        "path": "/media/posts/5/responsive/Picture1-lg.jpg",
+        "type": "file",
+        "md5": "9052d72f2a7990c5c3c1afb653d34e4f"
+    },
+    {
+        "path": "/media/posts/5/responsive/Picture1-md.jpg",
+        "type": "file",
+        "md5": "9052d72f2a7990c5c3c1afb653d34e4f"
+    },
+    {
+        "path": "/media/posts/5/responsive/Picture1-sm.jpg",
+        "type": "file",
+        "md5": "9052d72f2a7990c5c3c1afb653d34e4f"
+    },
+    {
+        "path": "/media/posts/5/responsive/Picture1-xl.jpg",
+        "type": "file",
+        "md5": "9052d72f2a7990c5c3c1afb653d34e4f"
+    },
+    {
+        "path": "/media/posts/5/responsive/Picture1-xs.jpg",
+        "type": "file",
+        "md5": "9052d72f2a7990c5c3c1afb653d34e4f"
+    },
+    {
+        "path": "/media/posts/5/responsive/Picture2-lg.png",
+        "type": "file",
+        "md5": "228f56befb8b2cbe2287297773c57a5b"
+    },
+    {
+        "path": "/media/posts/5/responsive/Picture2-md.png",
+        "type": "file",
+        "md5": "228f56befb8b2cbe2287297773c57a5b"
+    },
+    {
+        "path": "/media/posts/5/responsive/Picture2-sm.png",
+        "type": "file",
+        "md5": "228f56befb8b2cbe2287297773c57a5b"
+    },
+    {
+        "path": "/media/posts/5/responsive/Picture2-xl.png",
+        "type": "file",
+        "md5": "228f56befb8b2cbe2287297773c57a5b"
+    },
+    {
+        "path": "/media/posts/5/responsive/Picture2-xs.png",
+        "type": "file",
+        "md5": "2b6a2f3b171f3dedfd43313f75189d16"
+    },
+    {
+        "path": "/media/posts/5/responsive/Picture3-lg.png",
+        "type": "file",
+        "md5": "2af32199434af0980a117ddfb6c99a0c"
+    },
+    {
+        "path": "/media/posts/5/responsive/Picture3-md.png",
+        "type": "file",
+        "md5": "2af32199434af0980a117ddfb6c99a0c"
+    },
+    {
+        "path": "/media/posts/5/responsive/Picture3-sm.png",
+        "type": "file",
+        "md5": "45160f2a5ff23ad81427d0b38d4024ab"
+    },
+    {
+        "path": "/media/posts/5/responsive/Picture3-xl.png",
+        "type": "file",
+        "md5": "2af32199434af0980a117ddfb6c99a0c"
+    },
+    {
+        "path": "/media/posts/5/responsive/Picture3-xs.png",
+        "type": "file",
+        "md5": "82569803b06ac8853e82817d155ef4a7"
+    },
+    {
         "path": "robots.txt",
         "type": "file",
         "md5": "20b71fe0ee35873dfbc449e9682ca9e9"
@@ -472,7 +607,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "0d68f302f0cff7d6621d50d31185eb07"
+        "md5": "632fa2efaa16858f0c0493f294852d57"
     },
     {
         "path": "sitemap.xsl",
@@ -497,7 +632,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "b6b50efb39d7a07657cf25138da2f06f"
+        "md5": "c4d700f874ef0b945c220204227eff8f"
     },
     {
         "path": "tags/ocr",
@@ -537,11 +672,11 @@
     {
         "path": "/tags/r/index.html",
         "type": "file",
-        "md5": "ebe8e87191446cd9d039ab37865776dd"
+        "md5": "9fd3324367ee16b6b57c4f63c715ad9e"
     },
     {
         "path": "text-analysiss-of-historical-text-abour-the-coombian-conflcit-and-human-rights-violations.html",
         "type": "file",
-        "md5": "aa5e8ae9a831c208c9e8b306777681d9"
+        "md5": "a12e5a055deb24dc556f89fb34d5e29b"
     }
 ]

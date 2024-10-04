@@ -3,12 +3,52 @@
     <title>Portfolio</title>
     <link href="https://jcmarti415.github.io/JmPortfolio/feed.xml" rel="self" />
     <link href="https://jcmarti415.github.io/JmPortfolio" />
-    <updated>2024-09-27T13:41:03-06:00</updated>
+    <updated>2024-10-03T19:30:53-06:00</updated>
     <author>
         <name>Juan Martinez</name>
     </author>
     <id>https://jcmarti415.github.io/JmPortfolio</id>
 
+    <entry>
+        <title>LATAM After COVID-19: More Protests and More Peace  </title>
+        <author>
+            <name>Juan Martinez</name>
+        </author>
+        <link href="https://jcmarti415.github.io/JmPortfolio/latam-after-covid-19-more-protests-and-more-peace.html"/>
+        <id>https://jcmarti415.github.io/JmPortfolio/latam-after-covid-19-more-protests-and-more-peace.html</id>
+        <media:content url="https://jcmarti415.github.io/JmPortfolio/media/posts/5/Banner-LATAM-Protests.png" medium="image" />
+            <category term="R"/>
+
+        <updated>2024-10-03T18:46:47-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jcmarti415.github.io/JmPortfolio/media/posts/5/Banner-LATAM-Protests.png" alt="" />
+                    It is hard to find someone who says that we are better off after COVID-19, and even harder to think&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jcmarti415.github.io/JmPortfolio/media/posts/5/Banner-LATAM-Protests.png" class="type:primaryImage" alt="" /></p>
+                <p>It is hard to find someone who says that we are better off after COVID-19, and even harder to think that we are in a more peaceful world. The constraints on the economy after the pandemic are stated constantly by the news and reports about violent events between civilians and state forces are common. In regions with high inequality like Latin America, these images are very well known. However, looking at the numbers we might get another idea. In this paper, I found that in terms of the number of demonstrations, the regional tendency is a hopeful one of increasing peaceful protests and decreasing fatalities.</p>
+<p>I explored this topic considering the theoretical relation between constraints on the population and social movement, based on the theory of Political Opportunity which states that the likelihood of protests is a balance between constraints and the perceived potential to get what is wanted, usually from the government. Therefore, considering the control measures imposed by governments during and after the pandemic, and the increasing economic problems, I wonder if LATAM protests might be more frequent, more violent, and more fatal.</p>
+<p>This is a way, to explore the idea of whether demonstrations, either organized or spontaneous, might be having an increasing role in Latin America.</p>
+<p>Using data from The Armed Conflict Location &amp; Event Data Project (ACLED), a nonprofit</p>
+<p>organization, I analyzed 128.938 protests and riots that occurred in Latin America between 2018 and 2022. The categories included are if the demonstrations are violent or peaceful, and if there were reported at least one fatality involved in the demonstration. We need to keep in mind these are the number of demonstrations reported, not the amount of people participating in each one.  </p>
+<p>As a first insight, I found that there was a considerable increase in the number of demonstrations from 2019 to 2021.  </p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://jcmarti415.github.io/JmPortfolio/media/posts/5/Picture3.png" alt="" width="699" height="408" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jcmarti415.github.io/JmPortfolio/media/posts/5/responsive/Picture3-xs.png 384w ,https://jcmarti415.github.io/JmPortfolio/media/posts/5/responsive/Picture3-sm.png 600w ,https://jcmarti415.github.io/JmPortfolio/media/posts/5/responsive/Picture3-md.png 768w ,https://jcmarti415.github.io/JmPortfolio/media/posts/5/responsive/Picture3-lg.png 1200w ,https://jcmarti415.github.io/JmPortfolio/media/posts/5/responsive/Picture3-xl.png 1600w"></figure>
+<p>This graph seems to show a correlation between the frequency of events and the years. It is good to add at this point that I am not analyzing whenever the pandemic is the reason for this behaviour, as that would imply a bigger scope and a different approach.</p>
+<p>Continuing to the next category, I found that over 80% of the events were peaceful. When looking at each year the proportion and total number of violent and fatal events are higher in 2019 and then keep a decreasing trend over the following years. Proportionally, violent events also keep decreasing each year with a 10% lower proportion of violent events in 2022 than in 2029. This overall shows that violence, regardless of who is provoking it, is decreasing in Latin America. </p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://jcmarti415.github.io/JmPortfolio/media/posts/5/Picture2.png" alt="" width="596" height="423" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jcmarti415.github.io/JmPortfolio/media/posts/5/responsive/Picture2-xs.png 384w ,https://jcmarti415.github.io/JmPortfolio/media/posts/5/responsive/Picture2-sm.png 600w ,https://jcmarti415.github.io/JmPortfolio/media/posts/5/responsive/Picture2-md.png 768w ,https://jcmarti415.github.io/JmPortfolio/media/posts/5/responsive/Picture2-lg.png 1200w ,https://jcmarti415.github.io/JmPortfolio/media/posts/5/responsive/Picture2-xl.png 1600w"></figure>
+<p>In this table, we can see how non-violent events keep increasing and surpassing 2018 for over 5000 demonstrations, while the quantity of violent was higher in 2019 and has kept a relative decreasing tendency since 2020. </p>
+<p>Conversely, fatalities have gone down since 2019 with a really small increase in 2022. But overall, we can see that this tragedy happens in less than 2% of the events.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://jcmarti415.github.io/JmPortfolio/media/posts/5/Picture1.jpg" alt="" width="377" height="264" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jcmarti415.github.io/JmPortfolio/media/posts/5/responsive/Picture1-xs.jpg 384w ,https://jcmarti415.github.io/JmPortfolio/media/posts/5/responsive/Picture1-sm.jpg 600w ,https://jcmarti415.github.io/JmPortfolio/media/posts/5/responsive/Picture1-md.jpg 768w ,https://jcmarti415.github.io/JmPortfolio/media/posts/5/responsive/Picture1-lg.jpg 1200w ,https://jcmarti415.github.io/JmPortfolio/media/posts/5/responsive/Picture1-xl.jpg 1600w"></figure>
+<p>To further explore these ideas, I used a qi-squared test, which is useful to use with categorical data, to statistically test if there is a relation with either violence or fatalities. For both cases, we got a p-value of 2.2e-16, which means that there is a statistically significant relation between violence and fatalities over the years.  On the other hand, when measuring the association of violence, we get a weak negative relationship of -0.1, and for fatalities another weak negative relationship of -0.2. This means that, statistically, the higher the year the lower fatalities and violence tend to be. </p>
+<p>It is good to keep in mind that these are only two years after 2020, meaning it's still hard to say that this will be a trend in the long term, however, this data shows that the population in Latin America after 2020 is prone to do demonstrations in which there is less violence both proportionally and in overall quantity.</p>
+<p>In a post COVID19 world, this could mean that Latin America is on a new moment for social demonstrations and protests that are becoming more peaceful and safer. And while this might not necessarily mean that those demands will be fulfilled by the government, policymakers should consider a more politically active population.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Analysing Influencers with Sentiment Analysis</title>
         <author>
@@ -131,6 +171,67 @@
 <p>The overall process was the following:</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://jcmarti415.github.io/JmPortfolio/media/posts/1/WorkFlow.png" alt="" width="800" height="352" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jcmarti415.github.io/JmPortfolio/media/posts/1/responsive/WorkFlow-xs.png 384w ,https://jcmarti415.github.io/JmPortfolio/media/posts/1/responsive/WorkFlow-sm.png 600w ,https://jcmarti415.github.io/JmPortfolio/media/posts/1/responsive/WorkFlow-md.png 768w ,https://jcmarti415.github.io/JmPortfolio/media/posts/1/responsive/WorkFlow-lg.png 1200w ,https://jcmarti415.github.io/JmPortfolio/media/posts/1/responsive/WorkFlow-xl.png 1600w"></figure>
 <p>Original files were scanned images in PDF format. The first step was to extract the text through OCR using gImageReader to clean and extract the text into text files. After that using a Python script location names were extracted and geolocated with latitude and longitude coordinates. This data was cleansed manually using a combination of QGIS, MS Excel and R. </p>
+<p>Original files were scanned images in PDF format. The first step was to extract the text through OCR using gImageReader to clean and extract the text into text files. After that using a Python script location names were extracted and geolocated with latitude and longitude coordinates. This data was cleansed manually using a combination of QGIS, MS Excel and R. </p>
+<p><strong>Sample of json output using Mordecai Library</strong></p>
+<pre class="language-json"><code>{
+        "word": "MIAMI",
+        "spans": [
+            {
+                "start": 17,
+                "end": 22
+            }
+        ],
+        "country_predicted": "USA",
+        "country_conf": 0.9571879506111145,
+        "geo": {
+            "admin1": "Florida",
+            "lat": "25.77427",
+            "lon": "-80.19366",
+            "country_code3": "USA",
+            "geonameid": "4164138",
+            "place_name": "Miami",
+            "feature_class": "P",
+            "feature_code": "PPLA2"
+        },
+        "file_name": "12_August_1999,_Colombia_Kidna"
+    }</code></pre>
+<p><strong>Python Script used to create the Dataset</strong></p>
+<pre class="language-python"><code>from mordecai import Geoparser
+import glob
+import csv
+import json
+import os
+import csv
+
+geo = Geoparser()
+existing_data = []
+json_file_path = "output.json"
+
+#create a list of addres for each txt file on folder
+read_files = glob.glob(r"C:\Users\xxxxxx\*.txt")
+
+#parse throu the list of txt file
+for file_path in read_files:
+    with open(file_path, "r") as file:
+        #Get the name of the file
+        file_name = os.path.splitext(os.path.basename(file_path))[0]
+        #From here the text of the txt file is on variable "texto"
+        texto = file.read()
+        #Geoparse the text
+        loc_data = geo.geoparse(texto)
+        for entry in loc_data:
+            #Fix error with float
+            entry['country_conf'] = float(entry['country_conf'])
+            #Add the name of the file
+            entry['file_name'] = file_name
+        
+        
+        existing_data.extend(loc_data)
+        print(file_path)
+        print(loc_data)
+ 
+with open(json_file_path, 'w') as json_file:
+    json.dump(existing_data, json_file, indent=4)</code></pre>
 <p>Additionally, the most frequent human rights violation terms were counted and grouped into four categories: those related to murder, drugs, kidnapping and others. Using Python these categories were related to each observation.</p>
 <p>Ultimately, the database created includes the name of the original file, location name, longitude, latitude, and the word categories including a count of each of them. </p>
 <p>Limitations and scope:</p>
