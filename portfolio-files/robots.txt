@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jcmarti415.github.io/JmPortfolio/sitemap.xml
