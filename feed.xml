@@ -3,7 +3,7 @@
     <title>Portfolio</title>
     <link href="https://jcmarti415.github.io/JmPortfolio/feed.xml" rel="self" />
     <link href="https://jcmarti415.github.io/JmPortfolio" />
-    <updated>2024-10-03T19:30:53-06:00</updated>
+    <updated>2024-10-20T18:56:34-06:00</updated>
     <author>
         <name>Juan Martinez</name>
     </author>
@@ -240,7 +240,7 @@ with open(json_file_path, 'w') as json_file:
 <li class="align-left">This data is obtained from U.S. documents, which means that every insight is from this country and the government's point of view.</li>
 <li class="align-left">It is challenging to detect and clean locations on a global scale. There are multiple locations across the world with the same name, as there are people and families with such names. There was an extensive effort to clean errors and miss-placed locations. Please make contact in case of finding any mistake.</li>
 </ol>
-<p><span data-preserver-spaces="true">The dataset is accessible in Dataverse Here (</span><em><span data-preserver-spaces="true">Pending approva</span></em><span data-preserver-spaces="true">l).</span></p>
+<p><span data-preserver-spaces="true">Dataset available: https://doi.org/10.5683/SP3/H7CPMC</span></p>
 <h3>INTERACTIVE MAPS</h3>
 <p>These maps were created using QGIS and show the locations mentioned across the world by country, and in Colombia. Also, words related to crime and criminality were  counted and grouped across the documentation, then add up based on group, name me of the location and name of the file.</p>
 <h6>Global Interactive Map</h6>
